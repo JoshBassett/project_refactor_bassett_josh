@@ -109,26 +109,26 @@ a:hover {
     color: #000000;
 }
 
-/* Menu */
+/* Nav */
 
-#menu {
+nav {
     width: 50%;
     height: 90px;
     margin: 0 auto;
     padding: 0;
 }
 
-#menu ul {
+nav ul {
     margin: 0;
     padding: 20px 0px 0px 0px;
     list-style: none;
     line-height: normal;
 }
 
-#menu li {
+nav li {
 }
 
-#menu a {
+nav a {
     display: block;
     line-height: 100px;
     margin-right: 1px;
@@ -144,13 +144,13 @@ a:hover {
     border: none;
 }
 
-#menu a:hover, #menu .current_page_item a {
+nav a:hover, nav .current_page_item a {
     background: url(../img/img01.jpg) repeat;
     text-decoration: none;
     color: #FFFFFF;
 }
 
-#menu .current_page_item a {
+nav .current_page_item a {
 }
 
 /* Page */
