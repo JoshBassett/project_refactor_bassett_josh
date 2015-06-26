@@ -322,3 +322,10 @@ footer a {
     background: url(../img/img03.png) no-repeat left bottom;
     margin-top: 500px;
 }
+@media (min-width: 542px) {
+    nav ul {
+        margin:auto;
+        width: 50%;
+    }
+}
+
