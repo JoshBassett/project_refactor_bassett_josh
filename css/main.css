@@ -340,6 +340,9 @@ footer a {
    #banner {
        margin-top:120px;
    }
+   nav {
+       float:right;
+   }
 }
 @media(min-width: 860px) {
        #banner {
@@ -349,18 +352,6 @@ footer a {
 @media (max-width: 945px) {
        nav li a {
        font-size: 1.5em;
-   }
-}
-@media (min-width: 946px) {
-   }
-}
-@media (min-width: 946px) {
-   nav li {
-       display: inline-block;
-       float: right;
-   }
-   nav ul {
-       width:100%;
    }
 }
 @media (min-width: 1014px) {
@@ -377,5 +368,4 @@ footer a {
    #wrapper {
        padding-bottom:200px;
    }
-
 }
