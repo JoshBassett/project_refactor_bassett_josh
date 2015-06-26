@@ -369,3 +369,14 @@ footer a {
        padding-bottom:200px;
    }
 }
+@media (min-width: 1320px) {
+    .buttons {
+        width: 16%
+    }
+}
+@media (min-width: 1600px) {
+    #page, header, #banner {
+        max-width:1200px;
+    }
+}
+
