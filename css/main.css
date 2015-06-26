@@ -363,3 +363,19 @@ footer a {
        width:100%;
    }
 }
+@media (min-width: 1014px) {
+   #content {
+       float:right;
+       width:66%;
+   }
+    #sidebar {
+       width:33%;
+   }
+   footer {
+       clear:both;
+   }
+   #wrapper {
+       padding-bottom:200px;
+   }
+
+}
