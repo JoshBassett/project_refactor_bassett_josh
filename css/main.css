@@ -361,6 +361,7 @@ footer a {
 @media(min-width: 860px) {
        #banner {
        width:80%;
+       margin-top: 105px;
    }
 }
 @media (max-width: 945px) {
@@ -393,4 +394,3 @@ footer a {
         max-width:1200px;
     }
 }
-
